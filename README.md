@@ -1,2 +1,1 @@
-# algorithm-practice
-# algorithm-practice
+practice algorithms and data structures for technical interviews
