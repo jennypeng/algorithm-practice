@@ -20,7 +20,7 @@ public class Solution {
       }
       for (int i = 0; i < start; i++) { nums[i] = 0; }
       for (int i = start; i < end; i++) { nums[i] = 1; }
-      for (int i = end; i < nums.length; i++) { nums[i] == 2; }
+      for (int i = end; i < nums.length; i++) { nums[i] = 2; }
 
     }
 }
